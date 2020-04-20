@@ -1,0 +1,18 @@
+{
+  "name": "dpk",
+  "version": "1.0.0",
+  "description": "my heroku app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start":"node techie.js"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "pug": "^2.0.4"
+  }
+}
